@@ -1,3 +1,4 @@
+package scr;
 import static java.lang.System.out;
 
 public class Account {
@@ -16,4 +17,5 @@ public class Account {
     public double getInterest(double percentageRate) {
         return balance * percentageRate / 100;
     }
+    //refactor account class
 }
