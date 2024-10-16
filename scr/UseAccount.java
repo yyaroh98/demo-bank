@@ -5,7 +5,6 @@ public class UseAccount {
         Account myAccount = new Account();
         Account yourAccount = new Account();
         myAccount.name("Барри");
-        // refactor useaccount class
 
         myAccount.address("222 Inner Lane");
         myAccount.balance(22.02);
